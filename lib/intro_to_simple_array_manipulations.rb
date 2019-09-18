@@ -46,6 +46,6 @@ def using_delete
   
 end
 
-def using_flatten
+def using_delete_at
   
 end
