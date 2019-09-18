@@ -22,11 +22,11 @@ def using_shift
   
 end
 
-def using_unshift
+def shift_with_args
   
 end
 
-def using_unshift
+def using_concat
   
 end
 
