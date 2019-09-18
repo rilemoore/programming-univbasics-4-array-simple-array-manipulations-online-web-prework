@@ -1,3 +1,7 @@
-def using_push(Array array, String string)
-  array.push(string)
+
+
+
+
+def using_push(Array, String)
+  Array.push(String)
 end  
