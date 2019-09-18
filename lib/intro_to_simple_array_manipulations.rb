@@ -3,5 +3,5 @@
 
 
 def using_push(array, string)
-  Array.push(String)
+  array.push(string)
 end  
