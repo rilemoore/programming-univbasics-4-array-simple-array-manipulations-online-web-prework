@@ -18,7 +18,7 @@ def pop_with_args
   
 end
 
-def using_unshift
+def using_shift
   
 end
 
