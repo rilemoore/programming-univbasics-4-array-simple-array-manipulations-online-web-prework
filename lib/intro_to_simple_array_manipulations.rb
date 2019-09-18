@@ -14,7 +14,7 @@ def using_pop
   
 end
 
-def using_unshift
+def pop_with_args
   
 end
 
