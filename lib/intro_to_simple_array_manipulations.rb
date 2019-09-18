@@ -10,7 +10,7 @@ def using_unshift
   
 end
 
-def using_unshift
+def using_pop
   
 end
 
