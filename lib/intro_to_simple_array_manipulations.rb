@@ -42,7 +42,7 @@ def using_flatten
   
 end
 
-def using_flatten
+def using_delete
   
 end
 
