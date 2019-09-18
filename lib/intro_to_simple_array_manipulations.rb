@@ -33,3 +33,11 @@ end
 def using_insert
   
 end
+
+def using_insert
+  
+end
+
+def using_insert
+  
+end
